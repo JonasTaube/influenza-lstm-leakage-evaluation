@@ -1,0 +1,9 @@
+# Python 3.10+ tested (CPU only; no GPU required)
+pandas>=2.0
+numpy>=1.24
+torch>=2.0          # CPU build is sufficient
+scikit-learn>=1.3
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.7
+xgboost>=2.0
