@@ -11,7 +11,7 @@ evaluation, statistical testing, and manuscript figure generation. The two
 public datasets (81,421 de-identified specimen records and the 574-week
 aggregated modelling series) are distributed in the companion Zenodo deposit:
 
-**https://doi.org/10.5281/zenodo.23590336**
+**https://doi.org/10.5281/zenodo.23590335**
 
 ## Contents
 
@@ -115,4 +115,4 @@ full statement, inclusion criteria and ethics approval information.
 Yu T, Wu X, Han N, Feng S, Fan J, Li J, Guo C, Lv Z, Fang Z, Li X, Yu L.
 Analysis code and de-identified influenza sentinel surveillance data for
 leakage-aware LSTM forecasting, Tianjin, China, 2015-2025. Zenodo.
-https://doi.org/10.5281/zenodo.23590336
+https://doi.org/10.5281/zenodo.23590335
